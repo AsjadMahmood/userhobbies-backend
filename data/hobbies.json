@@ -1,0 +1,37 @@
+[
+    {
+        "id": "902ak",
+        "userId": "121",
+        "passion": "High",
+        "hobby": "Reading Books",
+        "year": 2010
+    },
+    {
+        "id": "2233k",
+        "userId": "121",
+        "passion": "High",
+        "hobby": "Watching Football",
+        "year": 1999
+    },
+    {
+        "id": "97a7db19-db3b-4535-9023-76ecf9ed4870",
+        "userId": "965b30c6-e4cb-425a-ba4e-499761edf90c",
+        "passion": "Medium",
+        "hobby": "Playing PubG",
+        "year": "1212"
+    },
+    {
+        "id": "a89b96b9-48ee-4514-a877-d613a229189e",
+        "userId": "22w211",
+        "passion": "High",
+        "hobby": "Watching Ertugural",
+        "year": "2020"
+    },
+    {
+        "id": "ece6f0a0-478e-4ecb-8e1f-0a404f766eab",
+        "userId": "211",
+        "passion": "Low",
+        "hobby": "Playing Badminton ",
+        "year": "2009"
+    }
+]
